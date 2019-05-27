@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+7a34161ffc7f326d630f98f34d3f7ec9b99684ec refs/remotes/origin/develop
+71a8fa4270fe3908ed124bac0e044fe09f2773ec refs/remotes/origin/master
+7a34161ffc7f326d630f98f34d3f7ec9b99684ec refs/remotes/origin/new-player-pipeline
+6b88bfe0468a8712d77f601d7bc16d01fd686496 refs/remotes/origin/qt-player
